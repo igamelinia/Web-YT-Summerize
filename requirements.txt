@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-groq
+langchain_huggingface
+transformers
+streamlit
+python-dotenv
+ipykernel
+validators
+unstructured
+youtube-transcript-api
+pytube
